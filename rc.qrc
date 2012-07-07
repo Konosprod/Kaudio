@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/ressources">
+        <file alias="iOpen">ressources/open.png</file>
+        <file alias="iOpenRadio">ressources/wireless.png</file>
+        <file alias="icon">ressources/kaudio.png</file>
+    </qresource>
+</RCC>
