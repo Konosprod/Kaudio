@@ -46,8 +46,6 @@
   
   set(EXECUTABLE_OUTPUT_PATH ${kaudio_SOURCE_DIR})
   
-  set ( QT_PHONON_LIBRARY_RELEASE /usr/lib/libphonon.so )
-  
   # and finally an resource file
   
   # enable warnings
