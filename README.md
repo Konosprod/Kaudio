@@ -12,3 +12,4 @@ Lecteur audio.
 Il faudra peut être corriger le chemin de la libphonon à la ligne 49 par le chemin où se trouve le .so
 
 Voilà, le programme est installé !
+
